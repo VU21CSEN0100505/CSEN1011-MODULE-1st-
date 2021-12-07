@@ -21,3 +21,11 @@ printf("%d is not an Armstrong number.",num);
 
 return 0;
 }
+
+
+/* Output
+Enter a three digit number = 370
+370  is an Armstrong number.
+
+Enter a three digit number = 277
+277  is an Armstrong number.
