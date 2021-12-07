@@ -24,3 +24,11 @@ int main()
 
     return 0;
 }
+
+
+/* Output
+Enter any number to check perfect number: 6
+6 is PERFECT NUMBER
+
+Enter any number to check perfect number: 28
+27  is NOT PERFECT NUMBER
