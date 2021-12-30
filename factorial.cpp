@@ -1,3 +1,9 @@
+/* Algorithm
+01. Start
+02. Accept the value and run it with the given formula
+03. Display the result obeying the given conditions
+04. Stop */
+
 #include<stdio.h>
 int main()
 {
@@ -20,3 +26,13 @@ int main()
          printf("Too big a number");
     }
 }
+
+/* Output:
+Run - 1
+5
+120
+
+Run - 2
+9
+362880
+*/
