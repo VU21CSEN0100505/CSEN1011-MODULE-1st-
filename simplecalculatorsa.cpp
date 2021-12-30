@@ -1,3 +1,10 @@
+/* Algorithm
+01. Start
+02. accept number1,number2, operator
+03. display result after running the values with operator
+04. Stop */
+
+
 #include <stdio.h>
 
 int main()
@@ -55,6 +62,4 @@ Run - 2
 3
 3
 27              */
-
-
 
