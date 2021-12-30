@@ -20,5 +20,5 @@ RAPTOR
 [prime or composite.rap](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/9e28bec53a0518070020189704e89b615d1403a5/prime%20or%20composite.rap)<br/>
 [radius of a circle.rap](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/9e28bec53a0518070020189704e89b615d1403a5/radius%20of%20a%20circle.rap)<br/>
 [simpleinterestonly.rap](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/a149dd360ca3ede4a9e9759f399cbd2903e2c5a7/simpleinterestonly.rap)<br/>
-
-
+[simplecalculator.rap](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/c50d9cb1f4dbc1f694cc2b4efc5de2ec5c63dfaa/simplecalculator.rap)<br/>
+[fibonacci20.rap](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/c50d9cb1f4dbc1f694cc2b4efc5de2ec5c63dfaa/fibonacci20.rap)<br/>
