@@ -1,3 +1,10 @@
+/* Algorithm
+01. Start
+02. Accept the alphabet and change it into its capital if given small, into its small if given capital
+03. Display the result
+04. Stop */
+
+
 #include<stdio.h>
 int main()
 {
@@ -18,3 +25,14 @@ else
 printf("Incorrect data");
 }
 }
+
+/* Output:
+Run - 1
+A
+a
+
+Run - 2
+z
+Z
+
+*/
