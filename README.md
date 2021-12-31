@@ -12,6 +12,10 @@ C PROGRAM
 [marks.cpp](https://github.com/DheerajSrivatsaUppada/CSEN1011/blob/de64554dd3f05a5bd62a9a4bc1c566009a4e3203/marks.cpp)<br/>
 [netsal.cpp](https://github.com/DheerajSrivatsaUppada/CSEN1011/blob/de64554dd3f05a5bd62a9a4bc1c566009a4e3203/netsal.cpp)<br/>
 [armstrong.c](https://github.com/DheerajSrivatsaUppada/CSEN1011/blob/86ca34e5f1b3f2c9268f4a89908d2884b9e47d2a/armstrong.c)<br/>
+[alphabetcases.c](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/f194c4f17afc5f4d16608d021ff411934d5b0260/alphabetcases.c)<br/>
+[collatzprogram.c](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/7472b3c422fd69e29943b5c48b54d38f30a3779e/collatzprogram.c)<br/>
+[sumoffibonacci.c](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/6d56facdb9a9224d3610b05ea28187c5a585dc55/sumoffibonacci.c)<br/>
+[fibonacci.c](https://github.com/DheerajSrivatsaUppada/CSEN1011-MODULE1/blob/52043fdffa6e9e258f3d1bbc85a2410723269775/fibonacci.c)<br/>
 
 RAPTOR
 
